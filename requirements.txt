@@ -1,0 +1,6 @@
+moviepy
+imageio[ffmpeg]
+numpy
+pillow
+tqdm
+python-dotenv
